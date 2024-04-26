@@ -882,7 +882,9 @@
                     </h5>
                   </div>
                   <div>
-                      <form action="" method="post" role="form" class="contactForm">
+                      <form action="https://api.web3forms.com/submit" method="POST" class="contactForm">
+                      <!-- Replace with your Access Key -->
+                      <input type="hidden" name="access_key" value="{{secrets.WEB3FORMS_ACCESS_KEY}}">
                       <div id="sendmessage">Your message has been sent. Thank you!</div>
                       <div id="errormessage"></div>
                       <div class="row">
