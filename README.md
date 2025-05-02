@@ -1,9 +1,4 @@
 # MON PORTFOLIO 
-
-Bien sûr ! Voici un fichier `README.md` bien structuré pour ton projet GitHub de portfolio créé avec **HTML, CSS et JavaScript**. Il aidera les visiteurs à comprendre ton projet et comment l'utiliser.  
-
-# 🎨 Mon Portfolio  
-
 Bienvenue sur mon portfolio ! Ce projet est une vitrine de mes compétences en **HTML, CSS et JavaScript**, mettant en avant mes réalisations et mon parcours professionnel.  
 
 ## 🚀 Aperçu  
